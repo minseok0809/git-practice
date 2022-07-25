@@ -11,3 +11,19 @@
 Priscila Heller, Automating Workflows with GitHub Actions, 2021, Packt Publishing
 <br/>[PacktPublishing Github](https://github.com/PacktPublishing/Automating-Workflows-with-GitHub-Actions)
 <br/><br/><br/><br/>
+<br/>
+
+# Github Action with Python
+
+<img src="https://zzsza.github.io/assets/img/me.jpeg" width="219px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
+<br/>[Github zzsza](https://github.com/zzsza/github-action-with-python)
+<br/>[Tistory Blog 어쩐지 오늘은](https://zzsza.github.io/development/2020/06/06/github-action/)
+
+<br/>YES24 cron Github Action
+- YES24 IT 신간 도서에 있는 TOP 40을 가져와서, 해당 Github Issue 업로드
+- 매일 오전 9시에 업로드(한국 시간)
+- Watch 클릭시 이메일로 알람받을 수 있음
+
+<br/>hello.py 실행하는 Github Action
+- Master로 Push할 때 실행
+<br/>
