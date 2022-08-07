@@ -15,7 +15,7 @@ Priscila Heller, Automating Workflows with GitHub Actions, 2021, Packt Publishin
 # Github Action with Python
 <img src="https://zzsza.github.io/assets/img/me.jpeg" width="219px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
 <br/>[zzsza Github](https://github.com/zzsza/github-action-with-python)
-<br/>[Tistory Blog 어쩐지 오늘은](https://zzsza.github.io/development/2020/06/06/github-action/)
+<br/>[어쩐지 오늘은 Tistory Blog](https://zzsza.github.io/development/2020/06/06/github-action/)
 
 <br/>YES24 cron Github Action
 - YES24 IT 신간 도서에 있는 TOP 40을 가져와서, 해당 Github Issue 업로드
